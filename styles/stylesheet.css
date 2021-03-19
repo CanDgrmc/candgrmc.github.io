@@ -287,9 +287,19 @@ text-align: right;
 .sub-pink {
   color: #FD5AE8;
 }
+.sub-gray {
+  color: rgb(141, 141, 141);
+  text-shadow: 1px 1px 2px pink;
+}
+.sub-lightgray {
+  color: rgb(243, 242, 242);
+  text-shadow: 1px 1px 2px pink;
+}
 
 .gmarker,
 .gmarker-currently {
+border-radius: 20px;
+padding: 7px;
 background-color: #29FCA5;
 }
 
